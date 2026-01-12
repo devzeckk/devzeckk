@@ -17,6 +17,12 @@
 ###
 
 <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzeckk&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
+</div>
+
+###
+
+<div align="left">
   <a href="https://www.instagram.com/zzeckkk/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
