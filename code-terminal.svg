@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="650" viewBox="0 0 430 650" role="img" aria-label="Terminal animado com código">
+<style>text{font-family:Consolas,'Courier New',monospace}.line{opacity:0;animation:type .35s ease-out forwards}.cursor{animation:blink .8s steps(1) infinite}.glow{filter:drop-shadow(0 0 7px #39ff88)}@keyframes type{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:none}}@keyframes blink{50%{opacity:0}}@media(prefers-reduced-motion:reduce){.line{animation:none;opacity:1}.cursor{animation:none}}</style>
+<rect width="100%" height="100%" rx="14" fill="#050806" stroke="#1d6b3b"/><circle cx="24" cy="24" r="6" fill="#ff5f56"/><circle cx="44" cy="24" r="6" fill="#ffbd2e"/><circle cx="64" cy="24" r="6" fill="#27c93f"/>
+<text x="215" y="30" text-anchor="middle" font-size="12" fill="#78a886">devzeckk — terminal</text><g class="glow"><text x="215" y="145" text-anchor="middle" font-size="80" font-weight="bold" fill="#39ff88">&lt;/&gt;</text></g>
+<text x="28" y="205" font-size="16" fill="#39ff88" class="line" style="animation-delay:.1s">$ init developer-profile</text>
+<text x="28" y="246" font-size="15" fill="#d5ffe1" class="line" style="animation-delay:.3s"><tspan fill="#c678dd">const</tspan> rasec = {</text>
+<text x="48" y="280" font-size="15" fill="#d5ffe1" class="line" style="animation-delay:.5s">role: <tspan fill="#98c379">'DevOps'</tspan>,</text>
+<text x="48" y="314" font-size="15" fill="#d5ffe1" class="line" style="animation-delay:.7s">focus: [<tspan fill="#98c379">'IA'</tspan>, <tspan fill="#98c379">'Automação'</tspan>],</text>
+<text x="48" y="348" font-size="15" fill="#d5ffe1" class="line" style="animation-delay:.9s">stack: [<tspan fill="#98c379">'Python'</tspan>, <tspan fill="#98c379">'n8n'</tspan>],</text>
+<text x="48" y="382" font-size="15" fill="#d5ffe1" class="line" style="animation-delay:1.1s">status: <tspan fill="#98c379">'building'</tspan></text><text x="28" y="416" font-size="15" fill="#d5ffe1" class="line" style="animation-delay:1.3s">};</text>
+<rect x="55" y="474" width="320" height="100" rx="5" fill="none" stroke="#1d6b3b" stroke-width="3"/><path d="M28 585h374l-24 22H52z" fill="#0b2012" stroke="#1d6b3b" stroke-width="2"/>
+<text x="76" y="507" font-size="14" fill="#39ff88" class="line" style="animation-delay:1.5s">deploy --learn --automate</text><text x="76" y="540" font-size="14" fill="#d5ffe1" class="line" style="animation-delay:1.7s">Build completed successfully.</text><text x="76" y="565" font-size="18" fill="#39ff88" class="cursor">_</text><text x="215" y="632" text-anchor="middle" font-size="12" fill="#78a886">code • automate • improve</text>
+</svg>
