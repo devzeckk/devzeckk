@@ -1,38 +1,23 @@
-<h2 align="left">Olá meu nome é Rasec e sou apaixonado por tecnologia!👾</h2>
+<div align="center">
 
-###
+### `rasec@github ~ $ ./contributions.sh`
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+<img src="./contrib-heatmap.svg" width="860" alt="Gráfico de contribuições de Rasec" />
+
+<br>
+
+### `rasec@github ~ $ whoami`
+
+<table>
+  <tr>
+    <td valign="top"><img src="./portrait.svg" width="390" alt="Retrato ASCII de Rasec" /></td>
+    <td valign="top"><img src="./info-card.svg" width="470" alt="Perfil profissional de Rasec" /></td>
+  </tr>
+</table>
+
+### `rasec@github ~ $ connect --professional`
+
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rasecrocha@outlook.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zzeckkk/)
+
 </div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzeckk&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/zzeckkk/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:rasecrocha@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/devzeckk/devzeckk/output/snake.svg" alt="Snake animation" />
-
-###
