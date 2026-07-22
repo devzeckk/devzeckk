@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="510" height="650" viewBox="0 0 510 650" role="img" aria-label="Perfil profissional de Rasec">
+<style>.line{opacity:0;animation:show .45s ease-out forwards}.k{fill:#39ff88}.v{fill:#d5ffe1}.muted{fill:#78a886}text{font-family:Consolas,'Courier New',monospace;font-size:16px}@keyframes show{from{opacity:0;transform:translateY(7px)}to{opacity:1;transform:none}}@media(prefers-reduced-motion:reduce){.line{animation:none;opacity:1}}</style>
+<rect width="100%" height="100%" rx="14" fill="#050806" stroke="#1d6b3b"/><circle cx="24" cy="24" r="6" fill="#ff5f56"/><circle cx="44" cy="24" r="6" fill="#ffbd2e"/><circle cx="64" cy="24" r="6" fill="#27c93f"/>
+<text x="24" y="68" class="line k" style="animation-delay:.1s">rasec@devzeckk ~ $ whoami</text>
+<text x="24" y="108" class="line v" style="animation-delay:.25s">Rasec Rocha</text>
+<text x="24" y="140" class="line muted" style="animation-delay:.4s">DevOps • Técnico em TI • Dados</text>
+<text x="24" y="190" class="line k" style="animation-delay:.55s">roles</text>
+<text x="126" y="190" class="line v" style="animation-delay:.55s">DevOps</text>
+<text x="126" y="222" class="line v" style="animation-delay:.65s">Técnico em Informática</text>
+<text x="126" y="254" class="line v" style="animation-delay:.75s">Analista de Dados</text>
+<text x="24" y="304" class="line k" style="animation-delay:.9s">automation</text>
+<text x="144" y="304" class="line v" style="animation-delay:.9s">n8n</text>
+<text x="24" y="354" class="line k" style="animation-delay:1.05s">code</text>
+<text x="126" y="354" class="line v" style="animation-delay:1.05s">Python, C, C++</text>
+<text x="126" y="386" class="line v" style="animation-delay:1.15s">JavaScript</text>
+<text x="24" y="436" class="line k" style="animation-delay:1.3s">experience</text>
+<text x="144" y="436" class="line v" style="animation-delay:1.3s">Bancos de dados</text>
+<text x="144" y="468" class="line v" style="animation-delay:1.4s">Inteligência Artificial</text>
+<text x="24" y="518" class="line k" style="animation-delay:1.55s">location</text>
+<text x="144" y="518" class="line v" style="animation-delay:1.55s">Maranhão 🇧🇷</text>
+<text x="24" y="570" class="line muted" style="animation-delay:1.7s">Disponível para projetos e parcerias.</text>
+<text x="24" y="615" class="line k" style="animation-delay:1.9s">$ build --automate --analyze</text>
+</svg>
