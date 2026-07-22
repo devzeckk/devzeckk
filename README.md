@@ -10,7 +10,7 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="./portrait.svg" width="390" alt="Terminal animado com código" /></td>
+    <td valign="top"><img src="./portrait.svg?v=2" width="390" alt="Terminal animado com código" /></td>
     <td valign="top"><img src="./info-card.svg" width="470" alt="Perfil profissional de Rasec" /></td>
   </tr>
 </table>
